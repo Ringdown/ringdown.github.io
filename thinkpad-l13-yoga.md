@@ -1,3 +1,5 @@
+You know how sometimes I talk a lot to explain very little? Turns out this is true when I write as well.
+
 ## Preface
 
 There are a couple of resources I figure I should connect you with regardless of what you decide laptop-wise.
