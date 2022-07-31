@@ -1,0 +1,114 @@
+# Lenovo ThinkPad L13 Yoga
+![Image of the laptop in question](https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTM4ODQ2fGltYWdlL2pwZWd8aDdiL2hjYi8xMDYwOTI2MTYwODk5MC5qcGd8NTQ3NDAyZGUzZDMyNDk0MWU4ZTA4YjdkYzdmZjExY2MzYzAyOGNmOGUxODM5NGEyNzkyYzE0ZWIxOGRhMmJmZQ/lenovo-thinkpad-l13-yoga-gallery-01.jpg)
+
+This has singlehandedly become my favorite laptop that I have ever used. There's a bunch of rambling further down this page that details why I feel this way. Until then, I'll stick to some staight details.
+
+## Specifications
+
+**Model:** Lenovo ThinkPad L13 Yoga (20R5)\
+**Release Date:** Spring 2020\
+**Form Factor:** Thin-and-light, 2-in-1 Tablet PC, Aluminum Chassis\
+**Display:** 13" 1080p, touchscreen (stylus compatible)\
+**Battery Life:** ~6-7hrs during normal use ~5hrs of Zoom calls*\
+**CPU:** Intel i5, 10th gen, 8-core\ 
+**RAM:** 8GB, DDR4-3200\
+**Storage:** 256GB Toshiba NVMe SSD\
+**I/O:**
+* x2 USB-C Thunderbolt 3
+* x2 USB 3.1
+* HDMI (up to 4K@60)
+* 3.5mm headset jack
+* Garaged ThinkPad Pen Pro stylus
+* Backlit Keyboard
+* HD Webcam
+* Dual ANC Microphones
+
+\* Approximations adjusted from capacaty usage between 5% and 80%
+
+## Laptop History
+
+I purchased this laptop in August of 2020, making it exactly two years old. That said, it basically sat unused until Spring that next year, when I finally pulled it out for school.
+Since I have much more powerful desktop PC at home, I tended to leave my laptop in its backpack pocket during off-school periods, so I would consider it to only really have 1 year of wear and tear.
+
+During that time I've cleaned it regularly (especially the screen, as I use the touch a lot and hate greasy touch screens) because I feel that something lasts a lot longer when it stays clean.
+Something else I have done (and will undo at your request) is capped the battery at 80%. This may seem like a strange choice, but due to some chemistry stuff, this [makes a meaningful impact on long-term battery health](https://www.ifixit.com/News/31716/how-to-care-for-your-laptops-battery-so-it-lasts-longer).
+
+## If it's so good, why get rid of it?
+
+To make a long story short, I'm and I.T major now, and I have to run two are three virtual computers inside my conmputer, which is really something you can only do on much higher end laptops..
+
+## Comparisons
+
+### Other ThinkPad L13s
+My ThinkPad's [base configuration on Amazon](https://www.amazon.com/dp/B082FJKWRT) ($530)\
+&nbsp;&nbsp;&nbsp;&nbsp;Half-speed processor\
+&nbsp;&nbsp;&nbsp;&nbsp;Half RAM capacity\
+&nbsp;&nbsp;&nbsp;&nbsp;Half storage capacity\
+My ThinkPad exactly on Amazon(https://www.amazon.com/dp/B088PF3C45) ($1000)\
+This year's [model of L13 Yoga](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadl/thinkpad-l13-gen-3-(13-inch-intel)/21b3006fus) ($1,700...yikes)\
+Matching specs to mine [in 'Like New' condition](https://mercari.com/us/item/m34403630830) ($600)\
+
+### Sandy Best Buy Options
+[HP 14" (14-FQ0033DX)](https://bestbuy.com/site/6502175.p) (~~$430~~ Sale: $330)\
+&nbsp;&nbsp;&nbsp;&nbsp;Slightly Faster CPU\
+&nbsp;&nbsp;&nbsp;&nbsp;Half storage capacity\
+&nbsp;&nbsp;&nbsp;&nbsp;720p display, no touchscreen\
+&nbsp;&nbsp;&nbsp;&nbsp;No backlit keyboard\
+&nbsp;&nbsp;&nbsp;&nbsp;Plastic chassis
+
+[Lenovo IdeaPad 3 15"](https://bestbuy.com/site/6497829.p) (~~$500~~ Sale: $400)\
+&nbsp;&nbsp;&nbsp;&nbsp;Half-speed processor\
+&nbsp;&nbsp;&nbsp;&nbsp;720p display, no touchscreen\
+&nbsp;&nbsp;&nbsp;&nbsp;No backlit keyboard\
+&nbsp;&nbsp;&nbsp;&nbsp;Plastic chassis
+
+[Dell Inspiron 3511 15.6"](https://bestbuy.com/site/6500646.p) (~~$600~~ Sale: $460)\
+&nbsp;&nbsp;&nbsp;&nbsp;Slightly faster processor\
+&nbsp;&nbsp;&nbsp;&nbsp;Slightly slower memory\
+&nbsp;&nbsp;&nbsp;&nbsp;Lower battery life\
+&nbsp;&nbsp;&nbsp;&nbsp;Proprietary charger\
+&nbsp;&nbsp;&nbsp;&nbsp;Plastic chassis
+
+[HP Envy x360 2-in-1 15.6"](https://bestbuy.com/site/6502184.p) (~~$800~~ Sale: $500)\
+&nbsp;&nbsp;&nbsp;&nbsp;Significantly faster processor\
+&nbsp;&nbsp;&nbsp;&nbsp;Lower battery life\
+&nbsp;&nbsp;&nbsp;&nbsp;Better On-board Speakers
+
+### Sandy Walmart Options
+
+Just kidding. There are no laptops sold at Walmart that meet the University's recommended requirements...unless Best Buy also sells it.
+
+### Options from where I work
+
+Some notes here before moving forward:
+Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
+Compatibility issues are virtually non-existent at the moment, but if you are concerned about long term, going cheap here *may* cause trouble a few years down the road.\
+Then again, maybe not. It's pretty up in the air.\
+There's a '20% all laptops sale' for this week only that's been going since I started on July 5th, so don't feel pressured on sale prices
+
+[Retrofitted Mid 2012 MacBook Pro 13"](boise.craigslist.org/syd/d/boise-fast-i5-macbook-pro-13-ssd-drive/7509115062.html) ($225)\
+&nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (more than half speed)\
+&nbsp;&nbsp;&nbsp;&nbsp;Half storage space (upgrade to match my laptop's capacity is +$35)
+&nbsp;&nbsp;&nbsp;&nbsp;Latest MacOS
+&nbsp;&nbsp;&nbsp;&nbsp;Only one more available as of Friday, so no promises
+
+[HP EliteBook 850 G2](https://boise.craigslist.org/syd/d/boise-hp-elitebook-15-laptop-includes/7506302728.html) ($360)\
+&nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (maybe 3/4 speed)\
+&nbsp;&nbsp;&nbsp;&nbsp;Aluminum chassis
+&nbsp;&nbsp;&nbsp;&nbsp;Comperable (probably better) audio
+
+There are a significant number of other options than what we advertise online. (Actually, [here's a link](http://boise.craigslist.org/search/sss?userpostingid=7513647547) to all of those listings)
+If you are at all interested, I can send you pictures and model numbers of other options at just about any price range you want to see.\
+I'm not plugging work because I work there, I don't get commission or anything. These are simply hands down the best deals I have ever seen outside of getting lucky on Ebay, FB marketplace, or KSL.
+
+## An embarrasing ramble about why I love this laptop. Take it as you will.
+
+### Reason 1: ThinkPads are 'Pro-grade' Laptops
+
+### Reason 2: It's a ThinkPad
+
+What is this? Am I blindly swearing on a specific brand? Well, yes and no. Back in Junior High we had some ThinkPads in our chemistry lab, and I'll be honest with you, I fell in love with the things. I hear lots of people praise Apple for making keyboards that just feel good to use, and I feel that way about ThinkPads.
+
+### Reason 3: It's a 2-in-1
+
+### Reason 4: It has a garaged stylus
