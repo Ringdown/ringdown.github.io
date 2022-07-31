@@ -1,4 +1,20 @@
-# Lenovo ThinkPad L13 Yoga
+## Preface
+
+There are a couple of resources I figure I should connect you with regardless of what you decide laptop-wise.
+
+1. BYU-I's official [Computer Standards for Students](https://techguides.byui.edu/a/1240019-information-computer-standards-for-students)\
+    This is a general specification for the entire student body. There are a handful of majors with higher requirements that are linked to, but I woudn't worry about them until you are set on pursuing one of them like me.\
+    I will say that I have something against the 'Minimum' requirements. Most school work can be done within 2-5 browser tabs and an Office document or two. 4GB of RAM is barely enough to handle that workload a this time. I think that the Recommended processor requirment of Dual Core should be the Minimum, and that the recommended should be Quad Core. Single core processors basically don't show up for sale any more, which gives you an idea of how outdated parts of this article are.
+2. [Windows 11 Requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1)\
+Windows 10 is getting [pushed out in just three short years](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro), and Windows 11 has very specific hardware requirements that effectively eliminate any computer more than three years old from being safe to use once we reach end-of-life for Windows 10. If you want what you get to be usable all the way through school, Microsoft is basically forcing you to buy something reasonably new. If I add more details, I'll put them [here](/windows11.md).
+
+In summary, my recommendations for a good PC that will last through college would be one with a Quad-core processor, 8GB of RAM, and is new enough to support Windows 11 either out of the box or through the free upgrade.
+
+In terms of storage capacity, 128GB is *probably* fine, but 256GB is the worry-free sweet spot. Beyond that, laptop specs are really up to your budget and your preference.
+
+Oh, and if having a 10-key number pad is important to you...this doesn't have one.
+
+# Lenovo ThinkPad L13 Yoga (20R5)
 ![Image of the laptop in question](https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTM4ODQ2fGltYWdlL2pwZWd8aDdiL2hjYi8xMDYwOTI2MTYwODk5MC5qcGd8NTQ3NDAyZGUzZDMyNDk0MWU4ZTA4YjdkYzdmZjExY2MzYzAyOGNmOGUxODM5NGEyNzkyYzE0ZWIxOGRhMmJmZQ/lenovo-thinkpad-l13-yoga-gallery-01.jpg)
 
 This has singlehandedly become my favorite laptop that I have ever used. There's a bunch of rambling further down this page that details why I feel this way. Until then, I'll stick to some staight details.
@@ -10,20 +26,20 @@ This has singlehandedly become my favorite laptop that I have ever used. There's
 **Form Factor:** Thin-and-light, 2-in-1 Tablet PC, Aluminum Chassis\
 **Display:** 13" 1080p, touchscreen (stylus compatible)\
 **Battery Life:** ~6-7hrs during normal use ~5hrs of Zoom calls*\
-**CPU:** Intel i5, 10th gen, 8-core\ 
+**CPU:** Intel i5, 10th gen, 8-core\
 **RAM:** 8GB, DDR4-3200\
 **Storage:** 256GB Toshiba NVMe SSD\
-**I/O:**
-* x2 USB-C Thunderbolt 3
-* x2 USB 3.1
-* HDMI (up to 4K@60)
-* 3.5mm headset jack
-* Garaged ThinkPad Pen Pro stylus
-* Backlit Keyboard
-* HD Webcam
-* Dual ANC Microphones
+**I/O and other Features:**
+> x2 USB-C Thunderbolt 3 (just like on newer MacBooks)\
+> x2 USB 3.1\
+> HDMI (up to 4K@60)\
+> 3.5mm headset jack\
+> Garaged ThinkPad Pen Pro stylus\
+> Backlit Keyboard\
+> HD Webcam\
+> Dual ANC Microphones\
 
-\* Approximations adjusted from capacaty usage between 5% and 80%
+\* This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
 
 ## Laptop History
 
@@ -33,18 +49,22 @@ Since I have much more powerful desktop PC at home, I tended to leave my laptop 
 During that time I've cleaned it regularly (especially the screen, as I use the touch a lot and hate greasy touch screens) because I feel that something lasts a lot longer when it stays clean.
 Something else I have done (and will undo at your request) is capped the battery at 80%. This may seem like a strange choice, but due to some chemistry stuff, this [makes a meaningful impact on long-term battery health](https://www.ifixit.com/News/31716/how-to-care-for-your-laptops-battery-so-it-lasts-longer).
 
+I have done two bad things to it, the first is that I bent the stylus slightly, which has the added benefit of making it stay in the garage easier. The other sin was overheating the laptop twice. Both times it was in the summer with the laptop charging at full speed during a large Zoom call while that laptop was suffocating for air on my crumpled-up bedsheets. This is okay, the power-off is a safety mechanism that prevents damage to the laptop, but I figure it's good to be transparent, and good to give advice on what not to do to, well any laptop, really.
+
 ## If it's so good, why get rid of it?
 
-To make a long story short, I'm and I.T major now, and I have to run two are three virtual computers inside my conmputer, which is really something you can only do on much higher end laptops..
+To make a long story short, I'm now majoring in IT, so I have to run two or three virtual computers on my conmputer during classes and tests, which is really something you can only do on much higher end laptops.
 
 ## Comparisons
+
+Yes, I did some comparison shopping for a potential buyer. Fight me.
 
 ### Other ThinkPad L13s
 My ThinkPad's [base configuration on Amazon](https://www.amazon.com/dp/B082FJKWRT) ($530)\
 &nbsp;&nbsp;&nbsp;&nbsp;Half-speed processor\
 &nbsp;&nbsp;&nbsp;&nbsp;Half RAM capacity\
 &nbsp;&nbsp;&nbsp;&nbsp;Half storage capacity\
-My ThinkPad exactly on Amazon(https://www.amazon.com/dp/B088PF3C45) ($1000)\
+My [ThinkPad exactly on Amazon](https://www.amazon.com/dp/B088PF3C45) ($1000)\
 This year's [model of L13 Yoga](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadl/thinkpad-l13-gen-3-(13-inch-intel)/21b3006fus) ($1,700...yikes)\
 Matching specs to mine [in 'Like New' condition](https://mercari.com/us/item/m34403630830) ($600)\
 
@@ -105,10 +125,33 @@ I'm not plugging work because I work there, I don't get commission or anything. 
 
 ### Reason 1: ThinkPads are 'Pro-grade' Laptops
 
+Before I worked as a repair technician, I'd put work into about a dozen laptops. Of those, there were things I could fix and things I could fix but were not worth the cost of materials. Those cases were those where the laptop's hardware was fine, but the hinges or bezels or display were damaged.
+
+I won't say these issues are inescapable, especially when you have a hammer. What I will say is that buying a 'pro-grade' laptop will make the likelhood of that being your reason to replace the laptop *significantly* lower.
+
+This isn't unique to Lenovo, every major laptop manufacturer makes business-grade laptops. The problem is that you have to go directly to them to buy one and then pay through nose to buy one. Lenovo likes to frequently put their ThinkPads on sale at prices competitive to consumer-grade lines.
+
 ### Reason 2: It's a ThinkPad
 
-What is this? Am I blindly swearing on a specific brand? Well, yes and no. Back in Junior High we had some ThinkPads in our chemistry lab, and I'll be honest with you, I fell in love with the things. I hear lots of people praise Apple for making keyboards that just feel good to use, and I feel that way about ThinkPads.
+To each their own, as always. I've worked off and on with ThinkPads since Junior High. I love their keyboards, I love their trackpads, I can use them for hours at a time without discomfort.
+
+You can look at the ThinkPad webpage and oogle at the stuff they advertize, but I'll sum it up for you with two facts about all ThinkPads:
+1. Waterproof Keyboard
+2. MIL-SPEC durability
+
+This isn't false advertising. Here's an example:
+![ThinkPads on the actual Internation Space Station](https://blogs.esa.int/tim-peake/files/2016/03/25868466171_bd3bdd3d6b_o.jpg)
+
+This is the Internation Space Station. Every laptop in this picture is a ThinkPad. 
 
 ### Reason 3: It's a 2-in-1
 
+Touchscreens on laptops are a very subjective preference. Many people buy a laptop because it has a touchscreen...and then a month later they forget it's there entirely.
+
+Many people also buy 2-in-1 laptops for college, thinking they will take notes are draw or diagram using their laptop, then they don't and they regret spending the extra money on it.
+
+Personally, I've become an outlier. I love the touchscreen and I use it a ton. Often I'll find myself using the stylus until the battery runs out (takes three hours, btw) and realize I haven't actually touched the trackpad.
+
 ### Reason 4: It has a garaged stylus
+
+The most common problem I see people have with buying a stylus for their laptop is that they lose it because it just sits loose somewhere. On my ThinkPad, it has a pocket to sit in, flush with the body of the laptop so as to remain in the pocket. It also happens to charge the pen from dead to full in about 2 minutes, which I enjoy very much.
