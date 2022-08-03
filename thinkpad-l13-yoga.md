@@ -22,36 +22,41 @@ Oh, and if having a 10-key number pad is important to you...this doesn't have on
 This has singlehandedly become my favorite laptop that I have ever used. There's a bunch of rambling further down this page that details why I feel this way. Until then, I'll stick to some staight details.
 
 ## Specifications
-
+<details>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Click to expand</summary>
+  
 **Model:** Lenovo ThinkPad L13 Yoga (20R5)\
 **Release Date:** Spring 2020\
 **Form Factor:** Thin-and-light, 2-in-1 Tablet PC, Aluminum Chassis\
-**Display:** 13" 1080p, touchscreen (stylus compatible)\
+**Display:** 13" 1080p, IPS touchscreen (stylus compatible)\
 **Battery Life:** ~6-7hrs during normal use ~5hrs of Zoom calls*\
 **CPU:** Intel i5, 10th gen, 8-core\
 **RAM:** 8GB, DDR4-3200\
 **Storage:** 256GB Toshiba NVMe SSD\
-**I/O and other Features:**
-> x2 USB-C Thunderbolt 3 (just like on newer MacBooks)\
-> x2 USB 3.1\
-> HDMI (up to 4K@60)\
-> 3.5mm headset jack\
-> Garaged ThinkPad Pen Pro stylus\
-> Backlit Keyboard\
-> HD Webcam\
-> Dual ANC Microphones\
+**I/O and other Features:**\
+&nbsp;&nbsp;&nbsp;&nbsp;x2 USB-C Thunderbolt 3 (just like on newer MacBooks)\
+&nbsp;&nbsp;&nbsp;&nbsp;x2 USB 3.1\
+&nbsp;&nbsp;&nbsp;&nbsp;HDMI (up to 4K@60)\
+&nbsp;&nbsp;&nbsp;&nbsp;3.5mm headset jack\
+&nbsp;&nbsp;&nbsp;&nbsp;Garaged ThinkPad Pen Pro stylus\
+&nbsp;&nbsp;&nbsp;&nbsp;Backlit Keyboard\
+&nbsp;&nbsp;&nbsp;&nbsp;HD Webcam\
+&nbsp;&nbsp;&nbsp;&nbsp;Dual ANC Microphones\
+&nbsp;&nbsp;&nbsp;&nbsp;Bluetooth 5.0
 
 \* This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
 
+</details>
+
 ## Laptop History
 
-I purchased this laptop in August of 2020, making it exactly two years old. That said, it basically sat unused until Spring that next year, when I finally pulled it out for school.
-Since I have much more powerful desktop PC at home, I tended to leave my laptop in its backpack pocket during off-school periods, so I would consider it to only really have 1 year of wear and tear.
+Date of purchase: August, 2020
+Time powered on: 55 days
 
-During that time I've cleaned it regularly (especially the screen, as I use the touch a lot and hate greasy touch screens) because I feel that something lasts a lot longer when it stays clean.
+While I've had this laptop, I've cleaned it regularly to make sure it stays in good condition (and to keep oily fingers off the touchscreen)
 Something else I have done (and will undo at your request) is capped the battery at 80%. This may seem like a strange choice, but due to some chemistry stuff, this [makes a meaningful impact on long-term battery health](https://www.ifixit.com/News/31716/how-to-care-for-your-laptops-battery-so-it-lasts-longer).
 
-I have done two bad things to it, the first is that I bent the stylus slightly, which has the added benefit of making it stay in the garage easier. The other sin was overheating the laptop twice. Both times it was in the summer with the laptop charging at full speed during a large Zoom call while that laptop was suffocating for air on my crumpled-up bedsheets. This is okay, the power-off is a safety mechanism that prevents damage to the laptop, but I figure it's good to be transparent, and good to give advice on what not to do to, well any laptop, really.
+I have done two bad things to it, the first is that I bent the stylus slightly, which does bring the added benefit of making it stay in the garage better. The other sin was overheating the laptop twice. Both times it was in the summer with the laptop charging at full speed during a large Zoom call while that laptop was suffocating for air on my crumpled-up bedsheets. This is okay, the power-off is a safety mechanism that prevents damage to the laptop, but I figure it's good to be transparent, and good to give advice on what not to do to, well any laptop, really.
 
 ## If it's so good, why get rid of it?
 
@@ -59,7 +64,11 @@ To make a long story short, I'm now majoring in IT, so I have to run two or thre
 
 ## Comparisons
 
-Yes, I did some comparison shopping for a potential buyer. Fight me.
+Yes, I did some comparison shopping for a potential buyer. Fight me. I actually like doing this.
+
+<details>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Click to expand</summary>
+  
 
 ### Other ThinkPad L13s
 My ThinkPad's [base configuration on Amazon](https://www.amazon.com/dp/B082FJKWRT) ($530)\
@@ -101,7 +110,9 @@ Matching specs to mine [in 'Like New' condition](https://mercari.com/us/item/m34
 Just kidding. There are no laptops sold at Walmart that meet the University's recommended requirements...unless Best Buy also sells it.
 
 ### Options from where I work
-
+<details>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Click to expand</summary>
+  
 Some notes here before moving forward:
 Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
 Compatibility issues are virtually non-existent at the moment, but if you are concerned about long term, going cheap here *may* cause trouble a few years down the road.\
@@ -110,8 +121,8 @@ There's a '20% all laptops sale' for this week only that's been going since I st
 
 [Retrofitted Mid 2012 MacBook Pro 13"](boise.craigslist.org/syd/d/boise-fast-i5-macbook-pro-13-ssd-drive/7509115062.html) ($225)\
 &nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (more than half speed)\
-&nbsp;&nbsp;&nbsp;&nbsp;Half storage space (upgrade to match my laptop's capacity is +$35)
-&nbsp;&nbsp;&nbsp;&nbsp;Latest MacOS
+&nbsp;&nbsp;&nbsp;&nbsp;Half storage space (upgrade to match my laptop's capacity is +$35)\
+&nbsp;&nbsp;&nbsp;&nbsp;Latest MacOS\
 &nbsp;&nbsp;&nbsp;&nbsp;Only one more available as of Friday, so no promises
 
 [HP EliteBook 850 G2](https://boise.craigslist.org/syd/d/boise-hp-elitebook-15-laptop-includes/7506302728.html) ($360)\
@@ -123,13 +134,17 @@ There are a significant number of other options than what we advertise online. (
 If you are at all interested, I can send you pictures and model numbers of other options at just about any price range you want to see.\
 I'm not plugging work because I work there, I don't get commission or anything. These are simply hands down the best deals I have ever seen outside of getting lucky on Ebay, FB marketplace, or KSL.
 
+</details>
+
+</details>
+
 ## An embarrasing ramble about why I love this laptop. Take it as you will.
 
 ### Reason 1: ThinkPads are 'Pro-grade' Laptops
 
 Before I worked as a repair technician, I'd put work into about a dozen laptops. Of those, there were things I could fix and things I could fix but were not worth the cost of materials. Those cases were those where the laptop's hardware was fine, but the hinges or bezels or display were damaged.
 
-I won't say these issues are inescapable, especially when you have a hammer. What I will say is that buying a 'pro-grade' laptop will make the likelhood of that being your reason to replace the laptop *significantly* lower.
+I won't say these issues are inescapable, especially when you have a hammer. What I will say is that buying a 'pro-grade' laptop will make the likelhood of physical damage being your reason to replace the laptop *significantly* lower.
 
 This isn't unique to Lenovo, every major laptop manufacturer makes business-grade laptops. The problem is that you have to go directly to them to buy one and then pay through nose to buy one. Lenovo likes to frequently put their ThinkPads on sale at prices competitive to consumer-grade lines.
 
@@ -137,9 +152,9 @@ This isn't unique to Lenovo, every major laptop manufacturer makes business-grad
 
 To each their own, as always. I've worked off and on with ThinkPads since Junior High. I love their keyboards, I love their trackpads, I can use them for hours at a time without discomfort.
 
-You can look at the ThinkPad webpage and oogle at the stuff they advertize, but I'll sum it up for you with two facts about all ThinkPads:
+You can look at the ThinkPad webpage and ogle at the stuff they advertize, but I'll sum it up for you with two facts about all ThinkPads:
 1. Waterproof Keyboard
-2. MIL-SPEC durability
+2. MIL-SPEC durability (military specification)
 
 This isn't false advertising. Here's an example:
 ![ThinkPads on the actual Internation Space Station](https://blogs.esa.int/tim-peake/files/2016/03/25868466171_bd3bdd3d6b_o.jpg)
@@ -150,7 +165,7 @@ This is the Internation Space Station. Every laptop in this picture is a ThinkPa
 
 Touchscreens on laptops are a very subjective preference. Many people buy a laptop because it has a touchscreen...and then a month later they forget it's there entirely.
 
-Many people also buy 2-in-1 laptops for college, thinking they will take notes are draw or diagram using their laptop, then they don't and they regret spending the extra money on it.
+Many people also buy 2-in-1 laptops for college, thinking they will take notes or draw or diagram using their laptop, then they don't and they regret spending the extra money on it.
 
 Personally, I've become an outlier. I love the touchscreen and I use it a ton. Often I'll find myself using the stylus until the battery runs out (takes three hours, btw) and realize I haven't actually touched the trackpad.
 
