@@ -53,7 +53,7 @@ Oh, and if having a 10-key number pad is important to you...this doesn't have on
 &nbsp;&nbsp;&nbsp;&nbsp;Dual ANC Microphones<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bluetooth 5.0
 
-[^1] This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
+[^1]: This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
 
 
 ## Laptop History
