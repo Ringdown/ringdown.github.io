@@ -6,22 +6,23 @@ There are a couple of resources I figure I should connect you with regardless of
 
 1. BYU-I's official [Computer Standards for Students](https://techguides.byui.edu/a/1240019-information-computer-standards-for-students)<br/>
 <details>
-  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to details</em></summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click for details</em></summary>
   
-    This is a general specification for the entire student body. There are a handful of majors with higher requirements that are linked to, but I woudn't worry about them until you are set on pursuing one of them like me.<br/>
+  > This is a general specification for the entire student body. There are a handful of majors with higher requirements that are linked to, but I woudn't worry about them until you are set on pursuing one of them like me.<br/>
 
-    I will say that I have something against the 'Minimum' requirements. Most school work can be done within 2-5 browser tabs and an Office document or two. 4GB of RAM is barely enough to handle that workload a this time. I think that the Recommended processor requirment of Dual Core should be the Minimum, and that the recommended should be Quad Core. Single core processors basically don't show up for sale any more, which gives you an idea of how outdated parts of this article are.
+  > I will say that I have something against the 'Minimum' requirements. Most school work can be done within 2-5 browser tabs and an Office document or two. 4GB of RAM is barely enough to handle that workload a this time. I think that the Recommended processor requirment of Dual Core should be the Minimum, and that the recommended should be Quad Core. Single core processors basically don't show up for sale any more, which gives you an idea of how outdated parts of this article are.
 </details>
 <br/>
 
 2. Windows 11 [Hardware Specifications](https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1)<br/>
 <details>
   <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click for details</em></summary>
-  Windows 10 is getting [pushed out in just three short years](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro), and Windows 11 has very specific hardware requirements that effectively eliminate any computer more than three years old from being safe to use once we reach end-of-life for Windows 10. If you want what you get to be usable all the way through school, Microsoft is basically forcing you to buy something reasonably new. If I add more details, I'll put them [here](/windows11.md).
+
+  > Windows 10 is getting <a href=https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro>pushed out of service</a> in just three short years, and Windows 11 has very specific hardware requirements that effectively eliminate any computer more than three years old from being safe to use once we reach end-of-life for Windows 10. If you want what you get to be usable all the way through school, Microsoft is basically forcing you to buy something reasonably new. If I add more details, I'll put them <a href /windows11.md>here</a>.
 </details>
 <br/>
 
-In summary, my recommendations for a good PC that will last through college would be one with a Quad-core processor, 8GB of RAM, and is new enough to support Windows 11 either out of the box or through the free upgrade.
+In summary, my recommendations for a good PC that will last through college would be one with a quad-core processor, 8GB of RAM, and is new enough to support Windows 11 either out of the box or through the free upgrade.
 
 In terms of storage capacity, 128GB is *probably* fine, but 256GB is the worry-free sweet spot. Beyond that, laptop specs are really up to your budget and your preference.
 
@@ -55,24 +56,33 @@ Oh, and if having a 10-key number pad is important to you...this doesn't have on
 
 [^1]: This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
 
+## Price
+
+$450
 
 ## Laptop History
 
-Date of purchase: August, 2020
+Date of purchase: August, 2020<br>
 Time powered on: 55 days
 
 While I've had this laptop, I've cleaned it regularly to make sure it stays in good condition (and to keep oily fingers off the touchscreen)
-Something else I have done (and will undo at your request) is capped the battery at 80%. This may seem like a strange choice, but due to some chemistry stuff, this [makes a meaningful impact on long-term battery health](https://www.ifixit.com/News/31716/how-to-care-for-your-laptops-battery-so-it-lasts-longer).
+Something else I have done (and will undo at your request) is capped the battery at 80%. This may seem like a strange choice, but due to some complicated chemistry stuff, this [makes a meaningful impact on long-term battery health](https://www.ifixit.com/News/31716/how-to-care-for-your-laptops-battery-so-it-lasts-longer).
 
-I have done two bad things to it, the first is that I bent the stylus slightly, which does bring the added benefit of making it stay in the garage better. The other sin was overheating the laptop twice. Both times it was in the summer with the laptop charging at full speed during a large Zoom call while that laptop was suffocating for air on my crumpled-up bedsheets. This is okay, the power-off is a safety mechanism that prevents damage to the laptop, but I figure it's good to be transparent, and good to give advice on what not to do to, well any laptop, really.
+I have done two bad things to it, the first is that I bent the stylus slightly, which does bring the added benefit of making it stay in the garage better. The other sin was overheating the laptop twice. Both times it was in the summer with the laptop charging at full speed during a large Zoom call while that laptop was suffocating for air on my crumpled-up bedsheets.[^2] So uhh, yeah: don't do that with a laptop.
+
+[^2]: Overheating a laptop these days isn't generally that bad, it powers off because of a safety mechanism that prevents damage to the laptop, but I figure it's good to be transparent, and good to give advice on what not to do to, well any laptop, really.
 
 ## If it's so good, why get rid of it?
 
-To make a long story short, I'm now majoring in IT, so I have to run two or three virtual computers on my conmputer during classes and tests, which is really something you can only do on much higher end laptops.
+To make a long story short, I'm now majoring in IT, so I have to run two or three virtual computers on my computer during classes and tests, which is really something you can only do on much higher end laptops[^3].
+
+[^3]: I thought the general laptop requirements were outdated, but then I read mine and found the 'modern example laptop' that is almost 10 years old now.
 
 ## Comparisons
 
-Yes, I did some comparison shopping for a potential buyer. Fight me. I actually like doing this.
+I figure that if I made a pricing chart, I might as well share it. Less work for everyone, right?
+
+*Prices are up-to-date as of July 30th*
 
 ### Other ThinkPad L13s
   My ThinkPad's [base configuration on Amazon](https://www.amazon.com/dp/B082FJKWRT) ($530)<br/>
@@ -95,31 +105,39 @@ Yes, I did some comparison shopping for a potential buyer. Fight me. I actually 
   &nbsp;&nbsp;&nbsp;&nbsp;Half-speed processor<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;720p display, no touchscreen<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;No backlit keyboard<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Full number pad<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Plastic chassis
 
   [Dell Inspiron 3511 15.6"](https://bestbuy.com/site/6500646.p) (~~$600~~ Sale: $460)<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Slightly faster processor<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Slightly slower memory<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Slightly faster processor[^4]<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Slightly slower memory[^4]<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Lower battery life<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;No backlit keyboard<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Full number pad<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Proprietary charger<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Plastic chassis
+
+  [^4]: These two are likely to cancel each other out and make it perform about as well as mine.
 
   [HP Envy x360 2-in-1 15.6"](https://bestbuy.com/site/6502184.p) (~~$800~~ Sale: $500)<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Significantly faster processor<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Lower battery life<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Better On-board Speakers
+  &nbsp;&nbsp;&nbsp;&nbsp;Better On-board Speakers<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Aluminum Chassis
 
-  ### Sandy Walmart Options
+  ### South Jordon/Sandy Walmart Options
 
   Just kidding. There are no laptops sold at Walmart that meet the University's recommended requirements...unless Best Buy also sells it.
 
-  ### Options from where I work
+  ### Options from Boise Computer Depot (where I work)
 
 Some notes here before moving forward:
 Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
-Compatibility issues are virtually non-existent at the moment, but if you are concerned about long term, going cheap here *may* cause trouble a few years down the road.<br/>
-Then again, maybe not. It's pretty up in the air.<br/>
-There's a '20% all laptops sale' for this week only that's been going since I started on July 5th, so don't feel pressured on sale prices
+Compatibility issues are virtually non-existent at the moment, but if you are concerned about long term, going cheap here *may* cause trouble a few years down the road.
+
+Then again, maybe not. It's pretty up in the air.
+
+Oh, and there's a '20% off all laptops sale' for this week only that's been going since I was hired in June, so don't feel pressured on sale prices.
 
 [Retrofitted Mid 2012 MacBook Pro 13"](boise.craigslist.org/syd/d/boise-fast-i5-macbook-pro-13-ssd-drive/7509115062.html) ($225)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (more than half speed)<br/>
@@ -134,7 +152,7 @@ There's a '20% all laptops sale' for this week only that's been going since I st
 
 There are a significant number of other options than what we advertise online. (Actually, [here's a link](http://boise.craigslist.org/search/sss?userpostingid=7513647547) to all of those listings)
 If you are at all interested, I can send you pictures and model numbers of other options at just about any price range you want to see.<br/>
-I'm not plugging work because I work there, I don't get commission or anything. These are simply hands down the best deals I have ever seen outside of getting lucky on Ebay, FB marketplace, or KSL.
+I'm not plugging work because I work there, I don't get commission or anything. These are simply hands down the best deals I have ever seen outside of getting lucky on EBay, FB marketplace, KSL, etc.
 
 
 ## An embarrasing ramble about why I love this laptop. Take it as you will.
@@ -155,12 +173,13 @@ You can look at the ThinkPad webpage and ogle at the stuff they advertize, but I
 1. Waterproof Keyboard<br/>
   Eat your heart out Apple
 2. [MIL-STD 810G](http://everyspec.com/MIL-STD/MIL-STD-0800-0899/MIL-STD-810G_12306/) stress testing<br/>
-   In short, Lenovo tests ThinkPad durability with military-grade specifications. Other folks do this to, but often to [less than appealing](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/sf/rugged-laptops)  results.
+   In short, Lenovo tests ThinkPad durability with military-grade specifications. Other folks do this to, but often to [less than appealing](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/sf/rugged-laptops) results.
 
 This isn't false advertising. Here's an example:
+
 ![ThinkPads on the actual Internation Space Station](https://blogs.esa.int/tim-peake/files/2016/03/25868466171_bd3bdd3d6b_o.jpg)
 
-This is the Internation Space Station. Every laptop in this picture is a ThinkPad. 
+Welcome to the Internation Space Station. Every laptop in this picture is a ThinkPad. 
 
 ### Reason 3: It's a 2-in-1
 
