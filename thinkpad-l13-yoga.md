@@ -77,11 +77,7 @@ To make a long story short, I'm now majoring in IT, so I have to run two or thre
 
 Yes, I did some comparison shopping for a potential buyer. Fight me. I actually like doing this.
 
-<details>
-  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to expand</em></summary>
-  
-
-  ### Other ThinkPad L13s
+### Other ThinkPad L13s
   My ThinkPad's [base configuration on Amazon](https://www.amazon.com/dp/B082FJKWRT) ($530)<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Half-speed processor<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Half RAM capacity<br/>
@@ -121,33 +117,28 @@ Yes, I did some comparison shopping for a potential buyer. Fight me. I actually 
   Just kidding. There are no laptops sold at Walmart that meet the University's recommended requirements...unless Best Buy also sells it.
 
   ### Options from where I work
-  <details>
-    <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to expand</em></summary>
-    
-    Some notes here before moving forward:
-    Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
-    Compatibility issues are virtually non-existent at the moment, but if you are concerned about long term, going cheap here *may* cause trouble a few years down the road.<br/>
-    Then again, maybe not. It's pretty up in the air.<br/>
-    There's a '20% all laptops sale' for this week only that's been going since I started on July 5th, so don't feel pressured on sale prices
 
-    [Retrofitted Mid 2012 MacBook Pro 13"](boise.craigslist.org/syd/d/boise-fast-i5-macbook-pro-13-ssd-drive/7509115062.html) ($225)<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (more than half speed)<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;Half storage space (upgrade to match my laptop's capacity is +$35)<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;Latest MacOS<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;Only one more available as of Friday, so no promises
+Some notes here before moving forward:
+Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
+Compatibility issues are virtually non-existent at the moment, but if you are concerned about long term, going cheap here *may* cause trouble a few years down the road.<br/>
+Then again, maybe not. It's pretty up in the air.<br/>
+There's a '20% all laptops sale' for this week only that's been going since I started on July 5th, so don't feel pressured on sale prices
 
-    [HP EliteBook 850 G2](https://boise.craigslist.org/syd/d/boise-hp-elitebook-15-laptop-includes/7506302728.html) ($360)<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (maybe 3/4 speed)<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;Aluminum chassis
-    &nbsp;&nbsp;&nbsp;&nbsp;Comperable (probably better) audio
+[Retrofitted Mid 2012 MacBook Pro 13"](boise.craigslist.org/syd/d/boise-fast-i5-macbook-pro-13-ssd-drive/7509115062.html) ($225)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (more than half speed)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Half storage space (upgrade to match my laptop's capacity is +$35)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Latest MacOS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Only one more available as of Friday, so no promises
 
-    There are a significant number of other options than what we advertise online. (Actually, [here's a link](http://boise.craigslist.org/search/sss?userpostingid=7513647547) to all of those listings)
-    If you are at all interested, I can send you pictures and model numbers of other options at just about any price range you want to see.<br/>
-    I'm not plugging work because I work there, I don't get commission or anything. These are simply hands down the best deals I have ever seen outside of getting lucky on Ebay, FB marketplace, or KSL.
+[HP EliteBook 850 G2](https://boise.craigslist.org/syd/d/boise-hp-elitebook-15-laptop-includes/7506302728.html) ($360)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Significantly slower processor (maybe 3/4 speed)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Aluminum chassis
+&nbsp;&nbsp;&nbsp;&nbsp;Comperable (probably better) audio
 
-  </details>
+There are a significant number of other options than what we advertise online. (Actually, [here's a link](http://boise.craigslist.org/search/sss?userpostingid=7513647547) to all of those listings)
+If you are at all interested, I can send you pictures and model numbers of other options at just about any price range you want to see.<br/>
+I'm not plugging work because I work there, I don't get commission or anything. These are simply hands down the best deals I have ever seen outside of getting lucky on Ebay, FB marketplace, or KSL.
 
-</details>
 
 ## An embarrasing ramble about why I love this laptop. Take it as you will.
 
