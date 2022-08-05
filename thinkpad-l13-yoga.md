@@ -30,17 +30,15 @@ Oh, and if having a 10-key number pad is important to you...this doesn't have on
 # Lenovo ThinkPad L13 Yoga (20R5)
 ![Image of the laptop in question](https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTM4ODQ2fGltYWdlL2pwZWd8aDdiL2hjYi8xMDYwOTI2MTYwODk5MC5qcGd8NTQ3NDAyZGUzZDMyNDk0MWU4ZTA4YjdkYzdmZjExY2MzYzAyOGNmOGUxODM5NGEyNzkyYzE0ZWIxOGRhMmJmZQ/lenovo-thinkpad-l13-yoga-gallery-01.jpg)
 
-This has singlehandedly become my favorite laptop that I have ever used. There's a bunch of rambling further down this page that details why I feel this way. Until then, I'll stick to some staight details.
+> This has singlehandedly become my favorite laptop that I have ever used. There's a bunch of rambling further down this page that details why I feel this way. Until then, I'll stick to some staight details.
 
 ## Specifications
-<details>
-  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to expand</em></summary>
-  
+
 **Model:** Lenovo ThinkPad L13 Yoga (20R5)<br/>
 **Release Date:** Spring 2020<br/>
 **Form Factor:** Thin-and-light, 2-in-1 Tablet PC, Aluminum Chassis<br/>
 **Display:** 13" 1080p, IPS touchscreen (stylus compatible)<br/>
-**Battery Life:** ~6-7hrs during normal use ~5hrs of Zoom calls*<br/>
+**Battery Life:** ~6-7hrs during normal use ~5hrs of Zoom calls[^1]<br/>
 **CPU:** Intel i5, 10th gen, 8-core<br/>
 **RAM:** 8GB, DDR4-3200<br/>
 **Storage:** 256GB Toshiba NVMe SSD<br/>
@@ -55,9 +53,8 @@ This has singlehandedly become my favorite laptop that I have ever used. There's
 &nbsp;&nbsp;&nbsp;&nbsp;Dual ANC Microphones<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bluetooth 5.0
 
-\* This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
+[^1] This is not the on-paper spec, this is from my real-world experience having the battery only charge to 80% and adjusting for the additional 20%.
 
-</details>
 
 ## Laptop History
 
@@ -155,8 +152,10 @@ This isn't unique to Lenovo, every major laptop manufacturer makes business-grad
 To each their own, as always. I've worked off and on with ThinkPads since Junior High. I love their keyboards, I love their trackpads, I can use them for hours at a time without discomfort.
 
 You can look at the ThinkPad webpage and ogle at the stuff they advertize, but I'll sum it up for you with two facts about all ThinkPads:
-1. Waterproof Keyboard
-2. MIL-SPEC durability (military specification)
+1. Waterproof Keyboard<br/>
+  Eat your heart out Apple
+2. [MIL-STD 810G](http://everyspec.com/MIL-STD/MIL-STD-0800-0899/MIL-STD-810G_12306/) stress testing<br/>
+   In short, Lenovo tests ThinkPad durability with military-grade specifications. Other folks do this to, but often to [less than appealing](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/sf/rugged-laptops)  results.
 
 This isn't false advertising. Here's an example:
 ![ThinkPads on the actual Internation Space Station](https://blogs.esa.int/tim-peake/files/2016/03/25868466171_bd3bdd3d6b_o.jpg)
