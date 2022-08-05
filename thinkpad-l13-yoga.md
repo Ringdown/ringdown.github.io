@@ -1,4 +1,4 @@
-You know how sometimes I talk a lot to explain very little? Turns out this is true when I write as well.
+You know how sometimes I talk a lot to explain very little? Turns out this is true when I write as well. I think I had an existential crisis regarding laptops, so I just put my thoughts down to make sense of it all.
 
 ## Preface
 
