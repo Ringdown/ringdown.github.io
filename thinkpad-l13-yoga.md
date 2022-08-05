@@ -22,6 +22,9 @@ There are a couple of resources I figure I should connect you with regardless of
 </details>
 <br/>
 
+3. Footnotes
+> If you click/tap on footnotes, you'll get yanked to the bottom of the page. Use the  ↩︎ button next to the respective footnote to return to the place you left.
+
 In summary, my recommendations for a good PC that will last through college would be one with a quad-core processor, 8GB of RAM, and is new enough to support Windows 11 either out of the box or through the free upgrade.
 
 In terms of storage capacity, 128GB is *probably* fine, but 256GB is the worry-free sweet spot. Beyond that, laptop specs are really up to your budget and your preference.
