@@ -125,11 +125,11 @@ I figure that if I made a pricing chart, I might as well share it. Less work for
   &nbsp;&nbsp;&nbsp;&nbsp;Better On-board Speakers<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Aluminum Chassis
 
-  ### South Jordon/Sandy Walmart Options
+### South Jordon/Sandy Walmart Options
 
   Just kidding. There are no laptops sold at Walmart that meet the University's recommended requirements...unless Best Buy also sells it.
 
-  ### Options from Boise Computer Depot (where I work)
+### Options from Boise Computer Depot (where I work)
 
 Some notes here before moving forward:
 Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
@@ -192,3 +192,5 @@ Personally, I've become an outlier. I love the touchscreen and I use it a ton. O
 ### Reason 4: It has a garaged stylus
 
 The most common problem I see people have with buying a stylus for their laptop is that they lose it because it just sits loose somewhere. On my ThinkPad, it has a pocket to sit in, flush with the body of the laptop so as to remain in the pocket. It also happens to charge the pen from dead to full in about 2 minutes, which I enjoy very much.
+
+## Footnotes
