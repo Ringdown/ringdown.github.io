@@ -23,7 +23,7 @@ This has singlehandedly become my favorite laptop that I have ever used. There's
 
 ## Specifications
 <details>
-  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Click to expand</summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to expand</em></summary>
   
 **Model:** Lenovo ThinkPad L13 Yoga (20R5)<br/>
 **Release Date:** Spring 2020<br/>
@@ -67,7 +67,7 @@ To make a long story short, I'm now majoring in IT, so I have to run two or thre
 Yes, I did some comparison shopping for a potential buyer. Fight me. I actually like doing this.
 
 <details>
-  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Click to expand</summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to expand</em></summary>
   
 
 ### Other ThinkPad L13s
@@ -111,7 +111,7 @@ Just kidding. There are no laptops sold at Walmart that meet the University's re
 
 ### Options from where I work
 <details>
-  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Click to expand</summary>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;<em>Click to expand</em></summary>
   
 Some notes here before moving forward:
 Boise Computer Depot mainly stocks hardware that is 4-8 years old, so the operating system on it is likely as new as it will get.
